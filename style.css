@@ -1,0 +1,24 @@
+#map {
+    position: absolute;
+    top:0;
+    left:0;
+    bottom:0;
+    width: 60%;
+}
+
+#textarea {
+    position: absolute;
+    top: 40pt;
+    right: 40pt;
+    bottom: 40pt;
+    width: 30%;
+    font-size: 15pt;
+    padding: 15pt;
+}
+
+/*#idinput {*/
+/*    position: absolute;*/
+/*    top: 0;*/
+/*    left: 50%;*/
+/*    font-size: 15pt;*/
+/*}*/
