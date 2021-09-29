@@ -1,10 +1,16 @@
 #map {
     position: absolute;
-    top:0;
-    left:0;
-    bottom:0;
+    top: 0;
+    left: 0;
+    bottom: 0;
     width: 60%;
+    height: 90%;
 }
+
+/*#buttonBlock{*/
+/*    position: absolute;*/
+/*    top:650pt;*/
+/*}*/
 
 #textarea {
     position: absolute;
@@ -16,9 +22,21 @@
     padding: 15pt;
 }
 
-/*#idinput {*/
-/*    position: absolute;*/
-/*    top: 0;*/
-/*    left: 50%;*/
-/*    font-size: 15pt;*/
+.leaflet-div-icon {
+    background: red;
+    border: 1px solid red;
+    border-radius: 50%;
+    opacity: 0.8;
+}
+
+/*.leaflet-container {*/
+/*    background: transparent;*/
+/*    outline: 0;*/
+/*}*/
+/*.leaflet-container a {*/
+/*    color: transparent;*/
+/*}*/
+
+/*.leaflet-draw-actions a {*/
+/*    color: #FFF;*/
 /*}*/
